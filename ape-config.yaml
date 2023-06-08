@@ -1,0 +1,4 @@
+name: ape-weth-demo
+
+plugins:
+  - name: solidity
